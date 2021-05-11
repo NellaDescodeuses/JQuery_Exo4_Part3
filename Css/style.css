@@ -1,0 +1,10 @@
+#coloredDiv{
+    width: 100px;
+    height: 45px;
+    background-color: #622bc9;
+    border-radius: 40%; 
+    
+}
+button{
+    margin-right: 20px;
+}
